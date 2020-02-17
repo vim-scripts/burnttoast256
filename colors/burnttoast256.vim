@@ -33,7 +33,7 @@ if exists("syntax_on")
   syntax reset
 endif
 
-let colors_name = "burnttoast256"
+let g:colors_name = "burnttoast256"
 
 " now set it up to change the status line based on mode
 "if version >= 700
